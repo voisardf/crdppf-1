@@ -85,4 +85,5 @@
         'table': {'data': [['Limites de la for\xeat (dans les zones \xe0 b\xe2tir)', 'je suis une restriction du themeR157', 'objectlegend', 'maplegend', 'legalprovisions', [{'officialtitle': 'bla', 'remoteurl': 'www1'}], 'references', u"Service de l'am\xe9nagement du territoire"]], 'columns': ['topic_title', 'restrictions', 'objectlegend', 'maplegend', 'legalprovisions', 'legalbases', 'references', 'authority']}, 'topicname': 'Limites de la for\xeat (dans les zones \xe0 b\xe2tir)'
     }, {
         'table': {'data': [['Distances par rapport \xe0 la for\xeat', 'je suis une restriction du themeR159', 'objectlegend', 'maplegend', 'legalprovisions', [{'officialtitle': 'bla', 'remoteurl': 'www1'}], 'references', 'Service de la faune, des for\xeats et de la nature']], 'columns': ['topic_title', 'restrictions', 'objectlegend', 'maplegend', 'legalprovisions', 'legalbases', 'references', 'authority']}, 'topicname': 'Distances par rapport \xe0 la for\xeat'
-    }], 'propertytype': 'PARCELLE', 'federalmunicipalitynumber': 6421L}, 'layout': 'report'}
+    }],
+    'propertytype': 'PARCELLE', 'federalmunicipalitynumber': 6421L}, 'layout': 'report'}
