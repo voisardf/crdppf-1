@@ -1,5 +1,32 @@
 {
     "attributes": {
+        "placeholderlabel": "",
+        "ch_logo": "",
+        "canton_logo": "",
+        "municipalitylogopath": "",
+        "crdppf_logo": "",
+        "competentauthority": "",
+        "municipality": "",
+        "municipalitylabel": "",
+        "cadastre": "",
+        "report_title": "",
+        "extractsubtitlelabel": "",
+        "propertylabel": "",
+        "propertynumber": "",
+        "propertyarealabel": "",
+        "propertyarea": "",
+        "EGRIDlabel": "",
+        "EGRIDnumber": "",
+        "creationdatelabel": "",
+        "extractcreationdate": "",
+        "extractoperatorlabel": "",
+        "certificationlabel": "",
+        "legendlabel": "",
+        "completlegendlabel": "",
+        "legalbaseslabel": "",
+        "legalprovisionslabel": "",
+        "referenceslabel": "",
+        "competentauthoritylabel": "",
         "map": {
             "layers": [{
                 "style": {
