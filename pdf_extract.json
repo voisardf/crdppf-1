@@ -89,5 +89,6 @@
         "propertytype": "PARCELLE",
         "federalmunicipalitynumber": 6421L
     },
-    "layout": "report"
+    "layout": "report",
+    "outputFormat": "pdf"
 }
